@@ -230,24 +230,6 @@ curl -X POST http://localhost:8080/api/chat/simulate-error
 curl -X POST http://localhost:8080/api/chat/empty-input-error
 ```
 
----
-
-## Screenshots
-
-### 1. Multi-turn Conversation
-*(Add screenshot here — show a conversation where the user asks follow-up questions and the chatbot remembers context)*
-
----
-
-### 2. Tool / Function Calling
-*(Add screenshot here — show the chatbot calling getProductDetails or calculatePrice)*
-
----
-
-### 3. Error Handling / Fallback
-*(Add screenshot here — show the empty input error or simulated AI failure response)*
-
----
 
 ## Project Structure
 
