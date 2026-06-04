@@ -230,6 +230,35 @@ curl -X POST http://localhost:8080/api/chat/simulate-error
 curl -X POST http://localhost:8080/api/chat/empty-input-error
 ```
 
+## Screenshots
+
+### 1. Multi-turn Conversation
+
+Health check :
+
+![img_5.png](img_5.png)
+
+![img_2.png](img_2.png)
+
+Memory test : 
+![img_1.png](img_1.png)
+---
+
+### 2. Tool / Function Calling
+![img.png](img.png)
+
+
+Calculator call :
+![img_3.png](img_3.png)
+---
+
+### 3. Error Handling / Fallback
+![img_4.png](img_4.png)
+
+
+
+
+
 
 ## Project Structure
 
